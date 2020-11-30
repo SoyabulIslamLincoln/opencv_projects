@@ -1,4 +1,4 @@
-# opencv_projects
+# OpenCv Python projects
 
 ### Here I have done some very easy projects reagrding opencv python
 
